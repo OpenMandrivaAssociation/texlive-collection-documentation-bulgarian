@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-bulgarian
 Epoch:		1
 Version:	20120224
-Release:	1
+Release:	2
 Summary:	Bulgarian documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
